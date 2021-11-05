@@ -1,6 +1,6 @@
 # Summarized C++ CPA Course
 
-### Disclaimer: This is supposed to help people pass <a href="https://cppinstitute.org/cpa-c-certified-associate-programmer-certification" target="_blank">C++ CPA Certification</a>, I am NOT claiming ownership of any resources used in this repo. Content is summarized from <a href="https://cppinstitute.org/cpa-course-an-overview" target="_blank">CPA Course</a> made by <a href="https://cppinstitute.org" target="_blank">C++ Institue</a> I am NOT responsible in any way for any trouble caused by you trying to follow these notes. Thanks!
+### Disclaimer: This is supposed to help people pass the <a href="https://cppinstitute.org/cpa-c-certified-associate-programmer-certification" target="_blank">C++ CPA Certification</a>, I am NOT claiming ownership of any resources used in this repo. Content is summarized from <a href="https://cppinstitute.org/cpa-course-an-overview" target="_blank">CPA Course</a> made by <a href="https://cppinstitute.org" target="_blank">C++ Institue</a> I am NOT responsible in any way for any trouble caused by you trying to follow these notes. Thanks!
 
 ## Table of contents 
 
