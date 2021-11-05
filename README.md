@@ -4,6 +4,22 @@
 
 ## Table of contents 
 
-### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 1: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 0: IDEs and how to use them</a>
 
 + Explains how IDEs work, how to install them and how to use them 
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 1: IDEs and how to use them</a>
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 2: IDEs and how to use them</a>
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 3: IDEs and how to use them</a>
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 4: IDEs and how to use them</a>
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 5: IDEs and how to use them</a>
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 6: IDEs and how to use them</a>
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 7: IDEs and how to use them</a>
+
+### <a href="https://github.com/scraptechguy/CppCPACourse/blob/main/Chapter0.md" target="_blank">Chapter 8: IDEs and how to use them</a>
