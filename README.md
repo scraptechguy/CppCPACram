@@ -8,18 +8,18 @@
 
 + Explains how IDEs work, how to install them and how to use them 
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter1.md" target="_blank">Chapter 1: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter1.md" target="_blank">Chapter 1: Introduction to common computer programming concepts, e.g. integers and variables</a>
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter2.md" target="_blank">Chapter 2: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter2.md" target="_blank">Chapter 2: Advanced flow control and data aggregates</a>
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter3.md" target="_blank">Chapter 3: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter3.md" target="_blank">Chapter 3: Introduction to pointers, functions and memory</a>
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter4.md" target="_blank">Chapter 4: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter4.md" target="_blank">Chapter 4: Ways to access various kinds of data</a>
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter5.md" target="_blank">Chapter 5: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter5.md" target="_blank">Chapter 5: Fundamentals of object oriented programming</a>
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter6.md" target="_blank">Chapter 6: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter6.md" target="_blank">Chapter 6: Inheritance</a>
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter7.md" target="_blank">Chapter 7: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter7.md" target="_blank">Chapter 7: Exceptions</a>
 
-### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter8.md" target="_blank">Chapter 8: IDEs and how to use them</a>
+### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter8.md" target="_blank">Chapter 8: Operators and enumerated types</a>
