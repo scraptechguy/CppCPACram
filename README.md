@@ -10,16 +10,33 @@
 
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter1.md" target="_blank">Chapter 1: Introduction to common computer programming concepts, e.g. integers and variables</a>
 
++ Bla bla bla 
+
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter2.md" target="_blank">Chapter 2: Advanced flow control and data aggregates</a>
+
++ Bla bla bla
 
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter3.md" target="_blank">Chapter 3: Introduction to pointers, functions and memory</a>
 
++ Bla bla bla
+
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter4.md" target="_blank">Chapter 4: Ways to access various kinds of data</a>
+
++ Bla bla bla
 
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter5.md" target="_blank">Chapter 5: Fundamentals of object oriented programming</a>
 
++ Bla bla bla
+
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter6.md" target="_blank">Chapter 6: Inheritance</a>
+
++ Bla bla bla
 
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter7.md" target="_blank">Chapter 7: Exceptions</a>
 
++ Bla bla bla
+
 ### <a href="https://github.com/scraptechguy/CppCPACram/blob/main/Chapter8.md" target="_blank">Chapter 8: Operators and enumerated types</a>
+
++ Bla bla bla
+
